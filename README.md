@@ -39,25 +39,9 @@
       <img src="./brain.jpg" width="100%" alt="Analytical Mind" />
     </td>
 
-```
-<td width="62%">
-  <h3>🕵🏻‍♀️ Subject: MLQ</h3>
 
-  <p>
-    <b>Status:</b> Investigating ideas.<br>
-    <b>Location:</b> Somewhere between logic & imagination.<br>
-    <b>Primary skill:</b> Asking inconvenient questions.
-  </p>
+<table> <tr> <td width="60%" valign="top"> <h3>🕵️ Subject: MLQ</h3> <p> <b>Status:</b> Investigating ideas.<br> <b>Location:</b> Somewhere between logic & imagination.<br> <b>Primary skill:</b> Asking inconvenient questions. </p> <ul> <li>🔎 <b>Observation:</b> Finding patterns hidden in ordinary things.</li> <li>♟️ <b>Strategy:</b> Thinking several moves ahead.</li> <li>🔬 <b>Analysis:</b> Breaking complex problems into simple pieces.</li> <li>🎨 <b>Creation:</b> Mixing logic with aesthetics.</li> <li>💻 <b>Investigation:</b> Learning programming one mystery at a time.</li> </ul> </td> <td width="40%" align="center" valign="middle"> <img src="brain.jpg" alt="Brain Aesthetic" width="100%"> </td> </tr> </table>
 
-  <ul>
-    <li>🔎 <b>Observation:</b> Finding patterns hidden in ordinary things.</li>
-    <li>♟️ <b>Strategy:</b> Thinking several moves ahead.</li>
-    <li>🧠 <b>Analysis:</b> Breaking complex problems into simple pieces.</li>
-    <li>🎨 <b>Creation:</b> Mixing logic with aesthetics.</li>
-    <li>💻 <b>Investigation:</b> Learning programming one mystery at a time.</li>
-  </ul>
-</td>
-```
 
   </tr>
 </table>
@@ -110,7 +94,7 @@
       <sub>Learning • Building • Experimenting</sub>
     </td>
 
-```
+
 <td align="center" width="33%">
   <h3>🎹</h3>
   <b>Piano</b><br>
@@ -122,7 +106,7 @@
   <b>Art</b><br>
   <sub>Making logic look beautiful</sub>
 </td>
-```
+
 
   </tr>
 </table>
