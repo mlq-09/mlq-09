@@ -129,9 +129,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mlq-09&show_icons=true&theme=dark" alt="GitHub Statistics" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mlq-09&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
   &nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mlq-09&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mlq-09&theme=zenburn" alt="GitHub Profile Details" width="48%" />
 </p>
 
 <p align="center">
