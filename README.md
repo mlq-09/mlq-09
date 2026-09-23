@@ -124,19 +124,15 @@
   </i>
 </p>
 
-<br>
-
 <p align="center">
   ─── 📄 <b>ACTIVITY REPORT</b> 📄 ───
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mlq-09&show_icons=true&theme=dark" alt="GitHub Statistics" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mlq-09&show_icons=true&theme=dark" alt="GitHub Statistics" width="48%" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlq-09&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mlq-09&layout=compact&theme=dark" alt="Top Languages" width="48%" />
 </p>
-
-<br>
 
 <p align="center">
   ───────── 🕯️ <b>FINAL NOTE</b> 🕯️ ─────────
