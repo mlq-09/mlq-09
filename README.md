@@ -131,13 +131,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mlq-09&show_icons=true&theme=dark" alt="GitHub Statistics">
+  <img src="https://github-readme-stats.vercel.app/api?username=mlq-09&show_icons=true&theme=dark" alt="GitHub Statistics" width="48%" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlq-09&layout=compact&theme=dark" alt="Top Languages" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlq-09&layout=compact&theme=dark" alt="Top Languages">
-</p>
-</p>
 <br>
 
 <p align="center">
