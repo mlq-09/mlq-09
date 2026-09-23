@@ -133,7 +133,41 @@
   &nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mlq-09&theme=zenburn" alt="GitHub Profile Details" width="48%" />
 </p>
+<hr>
 
+<h3 align="center">📓 CASE INVESTIGATION: SECRET FILE 📓</h3>
+
+<table>
+  <tr>
+    <td width="30%" align="center" valign="middle">
+      <img src="https://i.ibb.co/3s3W2pM/L-death-note.png" alt="L Lawliet Drawing" width="100%">
+    </td>
+    <td width="70%" valign="top">
+      <h3>📁 FBI CONFIDENTIAL DOSSIER</h3>
+      <p>
+        <b>SUBJECT CODE:</b> <code>L-09</code><br>
+        <b>CLEARANCE:</b> LEVEL 5 ONLY<br>
+        <b>CLASSIFICATION:</b> TOP SECRET INVESTIGATION
+      </p>
+      <ul>
+        <li>🖋️ <b>Notebook Entries:</b> Documenting patterns, code & anomalies.</li>
+        <li>☕ <b>Fuel Source:</b> Pure logic & excessive sugar/coffee.</li>
+        <li>🔎 <b>Deduction Rate:</b> 99.8% accurate under pressure.</li>
+      </ul>
+      <p><i>"I have two rules: First, I'm never wrong. Second, if I'm wrong, back to rule number one."</i></p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<p align="center">
+  <b>📊 INVESTIGATION PRODUCTIVITY GRID (WORK ACTIVITY)</b>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mlq-09&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+</p>
 <p align="center">
   ───────── 🕯️ <b>FINAL NOTE</b> 🕯️ ─────────
 </p>
