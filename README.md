@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./My20%Man_.jpg" width"90%" alt="Dark Detective Academia Collage" />
+  <img src="./collage.jpg" width="90%" alt="Dark Detective Academia Collage" />
 </p>
 
 <h1 align="center">
@@ -36,7 +36,7 @@
 <table align="center" width="88%">
   <tr>
     <td width="38%" align="center">
-      <img src="./t%C3%A9l%C3%Acharger%20(7).jpg" width="100%" alt="Analytical Mind" />
+      <img src="./brain.jpg" width="100%" alt="Analytical Mind" />
     </td>
 
 ```
