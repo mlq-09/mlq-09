@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./collage.jpg" width="90%" alt="Dark Detective Academia Collage" />
+  <img src="./vibes.jpg" width="90%" alt="Dark Detective Academia Collage" />
 </p>
 
 <h1 align="center">
