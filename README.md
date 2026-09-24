@@ -169,9 +169,38 @@
 
 <br>
 
+<br>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mlq-09&theme=onedark&column=3&margin-w=15" alt="Pink Activity Trophies" width="70%" />
+  <b>🌸 ABILITY & SKILL RADAR MATRIX 🌸</b>
 </p>
+
+<table width="100%" align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔍 DEDUCTION & ANALYTICS</h4>
+      <b>Logic & Reasoning</b>
+      <br>
+      <img src="https://geps.dev/progress/95?dangerColor=ffb6c1&warningColor=ff69b4&successColor=ff1493" width="100%" />
+      <br><br>
+      <b>Code Architecture</b>
+      <br>
+      <img src="https://geps.dev/progress/85?dangerColor=ffb6c1&warningColor=ff69b4&successColor=ff1493" width="100%" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>💻 TECH STACK & TOOLS</h4>
+      <b>Problem Solving</b>
+      <br>
+      <img src="https://geps.dev/progress/90?dangerColor=ffb6c1&warningColor=ff69b4&successColor=ff1493" width="100%" />
+      <br><br>
+      <b>Investigation Speed</b>
+      <br>
+      <img src="https://geps.dev/progress/98?dangerColor=ffb6c1&warningColor=ff69b4&successColor=ff1493" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<br>
 
 <br>                                                                                                                                                                                                                                                
   ───────── 🕯️ <b>FINAL NOTE</b> 🕯️ ─────────
