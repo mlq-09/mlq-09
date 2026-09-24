@@ -169,19 +169,9 @@
 
 <br>
 
-<br>
-
 <p align="center">
-  <b>🌸 INVESTIGATION PRODUCTIVITY GRID & SKILLS 🌸</b>
+  <img src="https://github-readme-stats.quickv.stat/api/top-langs/?username=mlq-09&layout=compact&theme=rose_pine&hide_border=true" alt="Pink Radar Grid" width="60%" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mlq-09&show_icons=true&theme=rose_pine&hide_border=true" alt="Productivity Pink Stats" width="48%" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlq-09&layout=compact&theme=rose_pine&hide_border=true" alt="Top Languages Pink" width="48%" />
-</p>
-
-<br>
 
 <br>                                                                                                                                                                                                                                                
   ───────── 🕯️ <b>FINAL NOTE</b> 🕯️ ─────────
