@@ -167,9 +167,17 @@
   <b>📊 INVESTIGATION PRODUCTIVITY GRID (WORK ACTIVITY)</b>
 </p>
 
+<br>
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mlq-09&theme=pink" alt="Radar Stats Chart Pink" width="70%" />
-</p>                                                                                                                                                                                                                                                  
+  <b>🕸️ SKILL & PRODUCTIVITY RADAR MATRIX 🕸️</b>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/skill-per-repo?username=mlq-09&theme=pink" alt="Radar Skill Chart Pink" width="60%" />
+</p>
+
+<br>                                                                                                                                                                                                                                                
   ───────── 🕯️ <b>FINAL NOTE</b> 🕯️ ─────────
 </p>
 
