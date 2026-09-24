@@ -168,8 +168,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mlq-09&theme=zenburn" alt="Activity Graph" width="100%" />
-</p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mlq-09&theme=pink" alt="Radar Stats Chart Pink" width="70%" />
+</p>                                                                                                                                                                                                                                                  
   ───────── 🕯️ <b>FINAL NOTE</b> 🕯️ ─────────
 </p>
 
