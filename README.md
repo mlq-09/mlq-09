@@ -201,6 +201,9 @@
 </table>
 
 <br>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/mlq-09/count.svg" alt="Visitor Count" />
+</p>
 
 <br>                                                                                                                                                                                                                                                
   ───────── 🕯️ <b>FINAL NOTE</b> 🕯️ ─────────
