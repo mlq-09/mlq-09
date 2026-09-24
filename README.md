@@ -170,7 +170,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.quickv.stat/api/top-langs/?username=mlq-09&layout=compact&theme=rose_pine&hide_border=true" alt="Pink Radar Grid" width="60%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mlq-09&theme=onedark&column=3&margin-w=15" alt="Pink Activity Trophies" width="70%" />
 </p>
 
 <br>                                                                                                                                                                                                                                                
