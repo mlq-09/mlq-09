@@ -168,7 +168,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mlq-09/mlq-09/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Grid" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mlq-09&theme=zenburn" alt="Activity Graph" width="100%" />
 </p>
   ───────── 🕯️ <b>FINAL NOTE</b> 🕯️ ─────────
 </p>
