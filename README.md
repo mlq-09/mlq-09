@@ -135,12 +135,14 @@
 </p>
 <hr>
 
+<hr>
+
 <h3 align="center">📓 CASE INVESTIGATION: SECRET FILE 📓</h3>
 
 <table>
   <tr>
     <td width="30%" align="center" valign="middle">
-      <img src="https://i.ibb.co/3s3W2pM/L-death-note.png" alt="L Lawliet Drawing" width="100%">
+      <img src="l.jpg" alt="L Lawliet Drawing" width="100%">
     </td>
     <td width="70%" valign="top">
       <h3>📁 FBI CONFIDENTIAL DOSSIER</h3>
@@ -168,7 +170,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mlq-09&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 </p>
-<p align="center">
   ───────── 🕯️ <b>FINAL NOTE</b> 🕯️ ─────────
 </p>
 
