@@ -200,9 +200,41 @@
   </tr>
 </table>
 
-<br>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/mlq-09/count.svg" alt="Visitor Count" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mlq-09&theme=pink" alt="3D Profile Summary" width="90%" />
+</p>
+<br>
+<p align="center"><b>🌸 BEYOND THE CODE / INTERESTS 🌸</b></p>
+
+<table align="center" border="0">
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/isometric/50/piano.png" width="40px"/><br>
+      <b>Piano</b><br>
+      <sub>Composing Music</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/isometric/50/chess-board.png" width="40px"/><br>
+      <b>Chess</b><br>
+      <sub>Tactical Thinking</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/isometric/50/test-tube.png" width="40px"/><br>
+      <b>Science</b><br>
+      <sub>Botany & Chemistry</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/isometric/50/paint-palette.png" width="40px"/><br>
+      <b>Art</b><br>
+      <sub>Manga & Sketches</sub>
+    </td>
+  </tr>
+</table>
+<br>
+<p align="center"><b>💻 TECH STACK & TOOLS</b></p>
+
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=python,cpp,git,vscode,github,c&theme=dark" alt="My Skills" /></a>
 </p>
 
 <br>                                                                                                                                                                                                                                                
